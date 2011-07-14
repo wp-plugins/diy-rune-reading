@@ -6,7 +6,7 @@ Description: A Complete Rune Reading of Past Present Future
 Version: 1.0
 Author: DIYDiscovery
 Author URI: http://diydiscovery.com
-License: A "Slug" license name e.g. GPL2
+License: GPL2
 */
 function diyrunes_widget() {
 	
